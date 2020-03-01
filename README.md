@@ -1,2 +1,2 @@
-# Imaginecup
-project for imagine cup base on blind people
+Heart disease prediction
+This  is a basic project for heart disease prediction.
